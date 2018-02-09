@@ -54,6 +54,7 @@ to
 # Shorthand
 
 pc.p === pc.promise
+
 pc.c === pc.callback
 
 
