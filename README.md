@@ -51,7 +51,7 @@ to
 	// or
 	// somePromiseFunction(data, callback);
 	
-# Shorthand
+# short-hand
 
 pc.p === pc.promise
 
