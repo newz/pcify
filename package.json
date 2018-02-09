@@ -1,0 +1,25 @@
+{
+  "name": "pcify",
+  "version": "0.1.0",
+  "description": "Promise and Callback ify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newz/pcify.git"
+  },
+  "keywords": [
+    "Promise",
+    "Promiseify",
+    "Callback",
+    "Callbackify"
+  ],
+  "author": "newz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newz/pcify/issues"
+  },
+  "homepage": "https://github.com/newz/pcify#readme"
+}
