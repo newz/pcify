@@ -1,6 +1,6 @@
 {
   "name": "pcify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Promise and Callback ify",
   "main": "index.js",
   "scripts": {

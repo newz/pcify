@@ -67,4 +67,4 @@ if you want to promisify your callback function
 
 if you want to callbackify your promise function
  - only work if your function return Promise
- - just add callback to your last arugment and replace `return new Promise(` with `return pc.promise(callback,`
+ - just add `callback` to your last arugment and replace `return new Promise(` with `return pc.promise(callback,`
